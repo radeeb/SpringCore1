@@ -1,4 +1,4 @@
-package io.ennate;
+package io.ennate.simple;
 
 //class to configure the spring app
 
